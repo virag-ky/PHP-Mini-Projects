@@ -9,10 +9,10 @@
   - clone this repository:
   
   ```
-  git clone
+  git clone git@github.com:virag-ky/PHP-Mini-Projects.git
   ```
   
-  - run the apps:
+  - run the selected project:
   
   ```
   php [FOLDER_NAME]/[FILE_NAME]
