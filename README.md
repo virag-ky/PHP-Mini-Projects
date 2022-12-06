@@ -1,6 +1,6 @@
-# PHP-Mini-Projects
+# PHP Mini-Projects
 
-> PHP mini-projects to practice the language. The projects are from the Codecademy PHP course.
+> This repository holds PHP mini-projects from Codecademy.
 
 * #### [Codecademy PHP course](https://www.codecademy.com/learn/learn-php)
 
